@@ -15,7 +15,7 @@ public class Ex01 {
 		System.out.print("출력");
 		System.out.println("입니다.");
 		System.out.print("학원에서 추가.");
-		
+		System.out.print("집에서 추가");
 		
 	}
 
